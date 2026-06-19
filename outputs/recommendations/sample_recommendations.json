@@ -1,0 +1,968 @@
+{
+  "sample_users": [
+    {
+      "user": 37843,
+      "likes": [
+        [
+          "North by Northwest (1959)",
+          5.0
+        ],
+        [
+          "High Fidelity (2000)",
+          5.0
+        ],
+        [
+          "American Beauty (1999)",
+          5.0
+        ],
+        [
+          "Better Off Dead (1985)",
+          5.0
+        ],
+        [
+          "Curb Your Enthusiasm: Season 3 (2002)",
+          5.0
+        ],
+        [
+          "Love Actually (2003)",
+          5.0
+        ]
+      ],
+      "itemcf_top10": [
+        {
+          "item_idx": 1459,
+          "title": "Sideways (2004)",
+          "score": 0.4686,
+          "hit": false
+        },
+        {
+          "item_idx": 1397,
+          "title": "Napoleon Dynamite (2004)",
+          "score": 0.3953,
+          "hit": false
+        },
+        {
+          "item_idx": 1742,
+          "title": "Garden State (2004)",
+          "score": 0.3793,
+          "hit": true
+        },
+        {
+          "item_idx": 891,
+          "title": "Four Weddings and a Funeral (1994)",
+          "score": 0.3704,
+          "hit": false
+        },
+        {
+          "item_idx": 840,
+          "title": "Eternal Sunshine of the Spotless Mind (2004)",
+          "score": 0.355,
+          "hit": true
+        },
+        {
+          "item_idx": 765,
+          "title": "The Life Aquatic with Steve Zissou (2004)",
+          "score": 0.2866,
+          "hit": false
+        },
+        {
+          "item_idx": 1477,
+          "title": "About a Boy (2002)",
+          "score": 0.2592,
+          "hit": false
+        },
+        {
+          "item_idx": 981,
+          "title": "Lock, Stock and Two Smoking Barrels (1998)",
+          "score": 0.2067,
+          "hit": false
+        },
+        {
+          "item_idx": 298,
+          "title": "Saving Grace (2000)",
+          "score": 0.2016,
+          "hit": false
+        },
+        {
+          "item_idx": 655,
+          "title": "Midnight Cowboy (1969)",
+          "score": 0.194,
+          "hit": false
+        }
+      ],
+      "svd_top10": [
+        {
+          "item_idx": 840,
+          "title": "Eternal Sunshine of the Spotless Mind (2004)",
+          "score": 4.7993,
+          "hit": true
+        },
+        {
+          "item_idx": 1824,
+          "title": "The Simpsons: Bart Wars (1999)",
+          "score": 4.612,
+          "hit": false
+        },
+        {
+          "item_idx": 204,
+          "title": "Batman the Animated Series: Vol. 3 (1993)",
+          "score": 4.5995,
+          "hit": false
+        },
+        {
+          "item_idx": 938,
+          "title": "The Simpsons: Season 6 (1994)",
+          "score": 4.5746,
+          "hit": false
+        },
+        {
+          "item_idx": 1080,
+          "title": "MI-5: Vol. 2 (2003)",
+          "score": 4.5594,
+          "hit": false
+        },
+        {
+          "item_idx": 1222,
+          "title": "The Life of Mammals (2002)",
+          "score": 4.5469,
+          "hit": false
+        },
+        {
+          "item_idx": 1534,
+          "title": "Samurai Jack: Season 2 (2002)",
+          "score": 4.5417,
+          "hit": false
+        },
+        {
+          "item_idx": 331,
+          "title": "The Wire: Season 1 (2003)",
+          "score": 4.5046,
+          "hit": true
+        },
+        {
+          "item_idx": 1570,
+          "title": "Pulp Fiction: Bonus Material (1994)",
+          "score": 4.4972,
+          "hit": false
+        },
+        {
+          "item_idx": 1535,
+          "title": "Family Guy: Freakin' Sweet Collection (2004)",
+          "score": 4.4968,
+          "hit": false
+        }
+      ]
+    },
+    {
+      "user": 25038,
+      "likes": [
+        [
+          "North by Northwest (1959)",
+          5.0
+        ],
+        [
+          "Stuart Little 2 (2002)",
+          5.0
+        ],
+        [
+          "Boyz N the Hood (1991)",
+          5.0
+        ],
+        [
+          "Mannequin (1987)",
+          5.0
+        ],
+        [
+          "Man on Fire (2004)",
+          5.0
+        ],
+        [
+          "A Streetcar Named Desire (1951)",
+          5.0
+        ]
+      ],
+      "itemcf_top10": [
+        {
+          "item_idx": 874,
+          "title": "50 First Dates (2004)",
+          "score": 0.8536,
+          "hit": false
+        },
+        {
+          "item_idx": 1714,
+          "title": "Bruce Almighty (2003)",
+          "score": 0.8012,
+          "hit": false
+        },
+        {
+          "item_idx": 1579,
+          "title": "Beaches (1988)",
+          "score": 0.7676,
+          "hit": true
+        },
+        {
+          "item_idx": 1376,
+          "title": "Ghost (1990)",
+          "score": 0.719,
+          "hit": false
+        },
+        {
+          "item_idx": 11,
+          "title": "Something's Gotta Give (2003)",
+          "score": 0.68,
+          "hit": true
+        },
+        {
+          "item_idx": 643,
+          "title": "The Recruit (2003)",
+          "score": 0.6578,
+          "hit": false
+        },
+        {
+          "item_idx": 1702,
+          "title": "The Sum of All Fears (2002)",
+          "score": 0.6177,
+          "hit": false
+        },
+        {
+          "item_idx": 1754,
+          "title": "Shrek 2 (2004)",
+          "score": 0.6115,
+          "hit": false
+        },
+        {
+          "item_idx": 1614,
+          "title": "The Last Samurai (2003)",
+          "score": 0.6046,
+          "hit": false
+        },
+        {
+          "item_idx": 1618,
+          "title": "Bad Boys II (2003)",
+          "score": 0.5999,
+          "hit": false
+        }
+      ],
+      "svd_top10": [
+        {
+          "item_idx": 1025,
+          "title": "Shadow of the Thin Man (1941)",
+          "score": 5.2456,
+          "hit": false
+        },
+        {
+          "item_idx": 381,
+          "title": "The Thin Man Goes Home (1945)",
+          "score": 5.2412,
+          "hit": false
+        },
+        {
+          "item_idx": 1153,
+          "title": "Stargate SG-1: Season 8 (2004)",
+          "score": 5.1796,
+          "hit": false
+        },
+        {
+          "item_idx": 1541,
+          "title": "Lost: Season 1 (2004)",
+          "score": 5.1704,
+          "hit": false
+        },
+        {
+          "item_idx": 990,
+          "title": "The Looney Tunes Golden Collection: Vol. 2 (2004)",
+          "score": 5.143,
+          "hit": false
+        },
+        {
+          "item_idx": 754,
+          "title": "Lonesome Dove (1989)",
+          "score": 5.1263,
+          "hit": false
+        },
+        {
+          "item_idx": 869,
+          "title": "Gilmore Girls: Season 3 (2002)",
+          "score": 5.0828,
+          "hit": false
+        },
+        {
+          "item_idx": 1145,
+          "title": "Gilmore Girls: Season 1 (2000)",
+          "score": 5.0797,
+          "hit": false
+        },
+        {
+          "item_idx": 911,
+          "title": "Star Trek: The Next Generation: Season 5 (1991)",
+          "score": 5.0399,
+          "hit": false
+        },
+        {
+          "item_idx": 614,
+          "title": "Stargate SG-1: Season 7 (2003)",
+          "score": 5.0176,
+          "hit": false
+        }
+      ]
+    },
+    {
+      "user": 35978,
+      "likes": [
+        [
+          "Something's Gotta Give (2003)",
+          4.0
+        ],
+        [
+          "Reservoir Dogs (1992)",
+          4.0
+        ],
+        [
+          "Rabbit-Proof Fence (2002)",
+          4.0
+        ],
+        [
+          "Wings of Desire (1987)",
+          4.0
+        ],
+        [
+          "Kill Bill: Vol. 2 (2004)",
+          4.0
+        ],
+        [
+          "Secondhand Lions (2003)",
+          4.0
+        ]
+      ],
+      "itemcf_top10": [
+        {
+          "item_idx": 134,
+          "title": "High Fidelity (2000)",
+          "score": 0.077,
+          "hit": false
+        },
+        {
+          "item_idx": 1296,
+          "title": "The Last Seduction (1994)",
+          "score": 0.0608,
+          "hit": false
+        },
+        {
+          "item_idx": 634,
+          "title": "The Limey (1999)",
+          "score": 0.0566,
+          "hit": false
+        },
+        {
+          "item_idx": 605,
+          "title": "The Professional (1994)",
+          "score": 0.0498,
+          "hit": false
+        },
+        {
+          "item_idx": 82,
+          "title": "The Deer Hunter (1978)",
+          "score": 0.0491,
+          "hit": false
+        },
+        {
+          "item_idx": 821,
+          "title": "Rosemary's Baby (1968)",
+          "score": 0.0478,
+          "hit": false
+        },
+        {
+          "item_idx": 1937,
+          "title": "Network (1976)",
+          "score": 0.043,
+          "hit": false
+        },
+        {
+          "item_idx": 1109,
+          "title": "This Is Spinal Tap (1984)",
+          "score": 0.0415,
+          "hit": false
+        },
+        {
+          "item_idx": 133,
+          "title": "Ed Wood (1994)",
+          "score": 0.0405,
+          "hit": false
+        },
+        {
+          "item_idx": 1731,
+          "title": "The People vs. Larry Flynt (1996)",
+          "score": 0.0375,
+          "hit": false
+        }
+      ],
+      "svd_top10": [
+        {
+          "item_idx": 1197,
+          "title": "The Memoirs of Sherlock Holmes (1994)",
+          "score": 4.3887,
+          "hit": false
+        },
+        {
+          "item_idx": 659,
+          "title": "Six Feet Under: Season 4 (2004)",
+          "score": 4.3207,
+          "hit": false
+        },
+        {
+          "item_idx": 938,
+          "title": "The Simpsons: Season 6 (1994)",
+          "score": 4.2436,
+          "hit": false
+        },
+        {
+          "item_idx": 1626,
+          "title": "House of Cards Trilogy II: To Play the King (1994)",
+          "score": 4.1761,
+          "hit": false
+        },
+        {
+          "item_idx": 638,
+          "title": "Inu-Yasha: The Movie 3: Swords of an Honorable Ruler (2002)",
+          "score": 4.1588,
+          "hit": false
+        },
+        {
+          "item_idx": 1541,
+          "title": "Lost: Season 1 (2004)",
+          "score": 4.1413,
+          "hit": false
+        },
+        {
+          "item_idx": 990,
+          "title": "The Looney Tunes Golden Collection: Vol. 2 (2004)",
+          "score": 4.1212,
+          "hit": false
+        },
+        {
+          "item_idx": 1629,
+          "title": "Farscape: Season 2 (2000)",
+          "score": 4.1178,
+          "hit": false
+        },
+        {
+          "item_idx": 1025,
+          "title": "Shadow of the Thin Man (1941)",
+          "score": 4.1108,
+          "hit": false
+        },
+        {
+          "item_idx": 776,
+          "title": "Cowboy Bebop Remix (1999)",
+          "score": 4.0838,
+          "hit": false
+        }
+      ]
+    },
+    {
+      "user": 27430,
+      "likes": [
+        [
+          "Lilo and Stitch (2002)",
+          5.0
+        ],
+        [
+          "Jack (1996)",
+          5.0
+        ],
+        [
+          "Wild Things (1998)",
+          5.0
+        ],
+        [
+          "Pay It Forward (2000)",
+          5.0
+        ],
+        [
+          "Untamed Heart (1993)",
+          5.0
+        ],
+        [
+          "Kill Bill: Vol. 2 (2004)",
+          5.0
+        ]
+      ],
+      "itemcf_top10": [
+        {
+          "item_idx": 853,
+          "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+          "score": 1.2387,
+          "hit": true
+        },
+        {
+          "item_idx": 126,
+          "title": "Harold and Kumar Go to White Castle (2004)",
+          "score": 1.1831,
+          "hit": false
+        },
+        {
+          "item_idx": 1912,
+          "title": "The Sixth Sense (1999)",
+          "score": 1.0517,
+          "hit": true
+        },
+        {
+          "item_idx": 1621,
+          "title": "Who Framed Roger Rabbit?: Special Edition (1988)",
+          "score": 0.8214,
+          "hit": false
+        },
+        {
+          "item_idx": 521,
+          "title": "Freddy vs. Jason (2003)",
+          "score": 0.8078,
+          "hit": false
+        },
+        {
+          "item_idx": 129,
+          "title": "Bridget Jones's Diary (2001)",
+          "score": 0.8069,
+          "hit": false
+        },
+        {
+          "item_idx": 760,
+          "title": "Ever After: A Cinderella Story (1998)",
+          "score": 0.8021,
+          "hit": true
+        },
+        {
+          "item_idx": 1074,
+          "title": "Along Came Polly (2004)",
+          "score": 0.7935,
+          "hit": false
+        },
+        {
+          "item_idx": 1455,
+          "title": "Half Baked (1998)",
+          "score": 0.7878,
+          "hit": false
+        },
+        {
+          "item_idx": 1221,
+          "title": "Naked Gun 2 1/2: The Smell of Fear (1991)",
+          "score": 0.7618,
+          "hit": false
+        }
+      ],
+      "svd_top10": [
+        {
+          "item_idx": 1791,
+          "title": "Alias: Season 4 (2005)",
+          "score": 5.2628,
+          "hit": false
+        },
+        {
+          "item_idx": 666,
+          "title": "Alias: Season 1 (2001)",
+          "score": 5.1869,
+          "hit": false
+        },
+        {
+          "item_idx": 1098,
+          "title": "Smallville: Season 1 (2001)",
+          "score": 5.0502,
+          "hit": false
+        },
+        {
+          "item_idx": 724,
+          "title": "On a Clear Day You Can See Forever (1970)",
+          "score": 5.0146,
+          "hit": false
+        },
+        {
+          "item_idx": 188,
+          "title": "Agatha Christie's Poirot: Sad Cypress (2003)",
+          "score": 4.9973,
+          "hit": false
+        },
+        {
+          "item_idx": 857,
+          "title": "Law & Order: Special Victims Unit: The Second Year (2000)",
+          "score": 4.983,
+          "hit": false
+        },
+        {
+          "item_idx": 1242,
+          "title": "The X-Files: Season 9 (2001)",
+          "score": 4.9272,
+          "hit": false
+        },
+        {
+          "item_idx": 185,
+          "title": "Transformers: Season 3: Part 1 (1986)",
+          "score": 4.8925,
+          "hit": false
+        },
+        {
+          "item_idx": 1749,
+          "title": "Nip/Tuck: Season 2 (2004)",
+          "score": 4.8598,
+          "hit": false
+        },
+        {
+          "item_idx": 635,
+          "title": "The O.C.: Season 1 (2003)",
+          "score": 4.8568,
+          "hit": false
+        }
+      ]
+    }
+  ],
+  "more_like_this": [
+    {
+      "movie": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "similar": [
+        [
+          "The Italian Job (2003)",
+          0.149
+        ],
+        [
+          "The Mummy (1999)",
+          0.136
+        ],
+        [
+          "50 First Dates (2004)",
+          0.133
+        ],
+        [
+          "X2: X-Men United (2003)",
+          0.132
+        ],
+        [
+          "Finding Nemo (Widescreen) (2003)",
+          0.131
+        ],
+        [
+          "Lord of the Rings: The Fellowship of the Ring (2001)",
+          0.129
+        ]
+      ]
+    },
+    {
+      "movie": "Bruce Almighty (2003)",
+      "similar": [
+        [
+          "50 First Dates (2004)",
+          0.209
+        ],
+        [
+          "Liar Liar (1997)",
+          0.2
+        ],
+        [
+          "Along Came Polly (2004)",
+          0.176
+        ],
+        [
+          "What Women Want (2000)",
+          0.157
+        ],
+        [
+          "The Italian Job (2003)",
+          0.154
+        ],
+        [
+          "S.W.A.T. (2003)",
+          0.152
+        ]
+      ]
+    },
+    {
+      "movie": "American Beauty (1999)",
+      "similar": [
+        [
+          "Being John Malkovich (1999)",
+          0.167
+        ],
+        [
+          "Eternal Sunshine of the Spotless Mind (2004)",
+          0.146
+        ],
+        [
+          "Reservoir Dogs (1992)",
+          0.127
+        ],
+        [
+          "Garden State (2004)",
+          0.125
+        ],
+        [
+          "Sideways (2004)",
+          0.12
+        ],
+        [
+          "The Silence of the Lambs (1991)",
+          0.108
+        ]
+      ]
+    },
+    {
+      "movie": "The Italian Job (2003)",
+      "similar": [
+        [
+          "S.W.A.T. (2003)",
+          0.187
+        ],
+        [
+          "The Bourne Supremacy (2004)",
+          0.18
+        ],
+        [
+          "The Recruit (2003)",
+          0.177
+        ],
+        [
+          "Bruce Almighty (2003)",
+          0.154
+        ],
+        [
+          "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+          0.149
+        ],
+        [
+          "The Sum of All Fears (2002)",
+          0.145
+        ]
+      ]
+    },
+    {
+      "movie": "Lord of the Rings: The Fellowship of the Ring (2001)",
+      "similar": [
+        [
+          "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+          0.129
+        ],
+        [
+          "X2: X-Men United (2003)",
+          0.111
+        ],
+        [
+          "Braveheart (1995)",
+          0.105
+        ],
+        [
+          "The Matrix: Reloaded (2003)",
+          0.101
+        ],
+        [
+          "The Last Samurai (2003)",
+          0.092
+        ],
+        [
+          "The Bourne Supremacy (2004)",
+          0.088
+        ]
+      ]
+    },
+    {
+      "movie": "The Sixth Sense (1999)",
+      "similar": [
+        [
+          "The Silence of the Lambs (1991)",
+          0.137
+        ],
+        [
+          "Signs (2002)",
+          0.134
+        ],
+        [
+          "A Beautiful Mind (2001)",
+          0.12
+        ],
+        [
+          "Ghost (1990)",
+          0.119
+        ],
+        [
+          "Braveheart (1995)",
+          0.113
+        ],
+        [
+          "The Others (2001)",
+          0.11
+        ]
+      ]
+    }
+  ],
+  "success": {
+    "user": 2960,
+    "hits": 10,
+    "likes": [
+      [
+        "The Game (1997)",
+        5.0
+      ],
+      [
+        "Reservoir Dogs (1992)",
+        5.0
+      ],
+      [
+        "Sex and the City: Season 4 (2001)",
+        5.0
+      ],
+      [
+        "Chappelle's Show: Season 1 (2003)",
+        5.0
+      ],
+      [
+        "Chasing Amy (1997)",
+        5.0
+      ]
+    ],
+    "top10": [
+      {
+        "item_idx": 1714,
+        "title": "Bruce Almighty (2003)",
+        "score": 1.499,
+        "hit": true
+      },
+      {
+        "item_idx": 503,
+        "title": "Training Day (2001)",
+        "score": 1.4572,
+        "hit": true
+      },
+      {
+        "item_idx": 1111,
+        "title": "Wayne's World (1992)",
+        "score": 1.2425,
+        "hit": true
+      },
+      {
+        "item_idx": 673,
+        "title": "National Lampoon's Van Wilder (2002)",
+        "score": 1.2344,
+        "hit": true
+      },
+      {
+        "item_idx": 223,
+        "title": "Rush Hour 2 (2001)",
+        "score": 1.1759,
+        "hit": true
+      },
+      {
+        "item_idx": 276,
+        "title": "Speed (1994)",
+        "score": 1.166,
+        "hit": true
+      },
+      {
+        "item_idx": 1269,
+        "title": "The Silence of the Lambs (1991)",
+        "score": 1.1602,
+        "hit": true
+      },
+      {
+        "item_idx": 134,
+        "title": "High Fidelity (2000)",
+        "score": 1.1011,
+        "hit": true
+      },
+      {
+        "item_idx": 1754,
+        "title": "Shrek 2 (2004)",
+        "score": 1.0976,
+        "hit": true
+      },
+      {
+        "item_idx": 1397,
+        "title": "Napoleon Dynamite (2004)",
+        "score": 1.0084,
+        "hit": true
+      }
+    ]
+  },
+  "failure": {
+    "user": 0,
+    "hits": 0,
+    "likes": [
+      [
+        "Reservoir Dogs (1992)",
+        5.0
+      ],
+      [
+        "Ray (2004)",
+        5.0
+      ],
+      [
+        "Three Musketeers (1993)",
+        5.0
+      ],
+      [
+        "The Bourne Supremacy (2004)",
+        5.0
+      ],
+      [
+        "Lord of the Rings: The Fellowship of the Ring (2001)",
+        5.0
+      ]
+    ],
+    "top10": [
+      {
+        "item_idx": 1869,
+        "title": "Jurassic Park III (2001)",
+        "score": 0.445,
+        "hit": false
+      },
+      {
+        "item_idx": 1078,
+        "title": "Home Alone 2: Lost in New York (1992)",
+        "score": 0.4337,
+        "hit": false
+      },
+      {
+        "item_idx": 32,
+        "title": "Congo (1995)",
+        "score": 0.4116,
+        "hit": false
+      },
+      {
+        "item_idx": 1379,
+        "title": "Dante's Peak (1997)",
+        "score": 0.3365,
+        "hit": false
+      },
+      {
+        "item_idx": 1803,
+        "title": "Planet of the Apes (2001)",
+        "score": 0.3226,
+        "hit": false
+      },
+      {
+        "item_idx": 324,
+        "title": "The Perfect Storm (2000)",
+        "score": 0.2977,
+        "hit": false
+      },
+      {
+        "item_idx": 1707,
+        "title": "Universal Soldier (1992)",
+        "score": 0.2955,
+        "hit": false
+      },
+      {
+        "item_idx": 581,
+        "title": "Dr. Dolittle 2 (2001)",
+        "score": 0.2775,
+        "hit": false
+      },
+      {
+        "item_idx": 684,
+        "title": "Mo' Money (1992)",
+        "score": 0.2684,
+        "hit": false
+      },
+      {
+        "item_idx": 171,
+        "title": "The Replacement Killers (1998)",
+        "score": 0.2575,
+        "hit": false
+      }
+    ]
+  }
+}

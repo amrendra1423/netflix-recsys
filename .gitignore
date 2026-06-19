@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Raw Netflix data (huge - keep out of git; lives outside this repo)
+combined_data_*.txt
+qualifying.txt
+probe.txt
+*.tar
+
+# Regenerable caches / outputs NOT needed to run the app
+data/subset_raw.npz
+data/eda_agg.npz
+data/sample.txt
+deploy/precomputed/
+outputs/*.log
+
+# NOTE: data/dataset.npz, data/movie_titles.csv and outputs/models/*.npz are
+# committed on purpose so the Streamlit Cloud app can load them.

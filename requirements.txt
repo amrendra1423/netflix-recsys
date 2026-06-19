@@ -1,0 +1,6 @@
+# Core + Streamlit app dependencies.
+# (FastAPI/uvicorn live in deploy/requirements.txt for the API/Docker route.)
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.5
+streamlit>=1.30

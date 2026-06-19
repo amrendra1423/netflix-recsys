@@ -1,0 +1,22 @@
+{
+  "n_ratings": 24053764,
+  "n_users": 470758,
+  "n_movies": 4499,
+  "sparsity_pct": 98.864,
+  "mean_rating": 3.6,
+  "rating_distribution": {
+    "1": 1118186,
+    "2": 2439073,
+    "3": 6904181,
+    "4": 8085741,
+    "5": 5506583
+  },
+  "ratings_per_user_median": 24,
+  "ratings_per_user_mean": 51.1,
+  "ratings_per_user_max": 4467,
+  "ratings_per_movie_median": 552,
+  "ratings_per_movie_mean": 5346.5,
+  "ratings_per_movie_max": 193941,
+  "share_of_ratings_top20pct_movies": 0.891,
+  "share_of_ratings_top1pct_movies": 0.227
+}

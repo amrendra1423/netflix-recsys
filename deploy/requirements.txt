@@ -1,0 +1,7 @@
+# Deployment dependencies (in addition to the core numpy/pandas).
+numpy>=1.23
+pandas>=1.5
+fastapi>=0.110
+uvicorn[standard]>=0.27
+streamlit>=1.30
+requests>=2.28
