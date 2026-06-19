@@ -1,5 +1,9 @@
 # Netflix Prize — Recommendation System for Personalized Content Discovery
 
+> **🎬 Live demo (Streamlit Cloud):** https://amrendra1423-netflix-recsys.streamlit.app
+>
+> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amrendra1423-netflix-recsys.streamlit.app)
+
 A reproducible recommendation engine built on the **Netflix Prize dataset**
 (~100M ratings, 480K users, 17,770 movies). It learns user preferences, predicts
 ratings for unseen movies, and generates personalized Top-N recommendations.
